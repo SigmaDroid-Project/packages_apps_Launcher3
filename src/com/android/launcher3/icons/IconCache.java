@@ -191,10 +191,10 @@ public class IconCache extends BaseIconCache {
                 getTitleAndIcon(info, false);
                 return info;
             };
-        } else if (info instanceof PackageItemInfo) {
+        } else if (info instanceof PackageItemInfo pii) {
             task = () -> {
-                getTitleAndIconForApp((PackageItemInfo) info, false);
-                return info;
+                getTitleAndIconForApp(pii, false);
+                return pii;
             };
         } else {
             Log.i(TAG, "Icon update not supported for "
