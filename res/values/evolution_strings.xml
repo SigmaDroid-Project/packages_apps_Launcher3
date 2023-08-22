@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2022 crDroid Android Project
                    2023 The Evolution X Project
+                   2023 The SigmaDroid Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -109,7 +110,7 @@
 
     <!-- Row Height -->
     <string name="row_height_title">Row height</string>
-    
+
     <!-- Background blur -->
     <string name="background_blur_title">Background blur depth</string>
     <string name="background_blur_summary">Set blur depth level for recents and app drawer</string>
@@ -149,7 +150,7 @@
     <string name="icon_pack_default_label">Default</string>
     <string name="icon_pack_add">Install more</string>
     <string name="icon_pack_no_market">There\'s no available app store</string>
-   
+
     <!-- Kill App recents action shortcut -->
     <string name="recent_task_option_kill_app">Kill</string>
     <string name="recents_app_killed">App killed</string>
@@ -180,7 +181,7 @@
     <string name="short_parallax_summary">Enable full wallpaper scroll effect on smaller numbers of pages instead of cropping the wallpaper</string>
     <string name="single_page_center_title">Single page center</string>
     <string name="single_page_center_summary">Center wallpaper if only using a single page</string>
-    
+
     <!-- Force monochrome icons -->
     <string name="pref_force_monochrome_themed_icons_title">Force themed icons</string>
     <string name="pref_force_monochrome_themed_icons_summary">Generate themed icon for apps that do not have one (requires re-toggling of themed icons)</string>
