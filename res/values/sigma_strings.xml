@@ -7,7 +7,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Application name -->
-    <string name="evolution_app_name" translatable="false">Evolution X Launcher</string>
+    <string name="sigma_app_name" translatable="false">SigmaDroid Launcher</string>
 
     <!-- General -->
     <string name="settings_title">Home settings</string>
